@@ -27,7 +27,10 @@ I aspire to be a tenure-track assistant professor at a research university. As a
 I want to expose undergraduates, including frosh students and sophomores taking introductory classes, to emerging technologies. This enables them to start doing research before the end of their junior year.
 
 2.ii)
-I hope to have demonstrated my ability to explore new techniques and models of pedagogy to improve student learning outcomes.
+I hope to have replicate the mutually influential methodology for teaching and research that is demonstrated by some professors at University of California, Berkeley's Department of Electrical Engineering and Computer Sciences.
+
+That is, I want to test open source research deliverables for (electronic design automation, computer architecture, formal verification, compiler design, program/software analysis, or hardware security) to teach students emerging technologies, such as (INSERT appropriate technology for relevant course). This helps disseminate my research to other students
+demonstrated my ability to explore new techniques and models of pedagogy to improve student learning outcomes.
 
 This would help me write my teaching statement when I apply for jobs in academia.
 
@@ -44,10 +47,10 @@ Apart from group projects for my coursework, I have experienced living with lear
 Also, I have participated in activities organized by MSC CAMAC, which is a learning community to help students learn about issues facing the Latinx community and Latinx subcultures.    
 
 3.iii)
-"Learning through Diversity" refers to learning with and from students who are from different socioeconomic backgrounds, including students from traditionally underrepresented/marginalized communities in academia (specifically ECE, for my case).
+"Learning through Diversity" refers to learning with and from a diverse community of students. This includes students from different socioeconomic backgrounds, such as students from traditionally underrepresented/marginalized communities in academia (specifically ECE, for my case), as well as students of different identities, (dis)abilities, and learning styles.
 
-By faciliting their mentoring and peer tutoring of each other, students can learn to work in diverse teams that are inclusive. They get to experiment with different forms/styles of communication and help to improve the inclusiveness of the teams that they belong to.
+To improve student learning by utilizing different strengths of the diverse class of students, I would encourage peer tutoring by award extra credit to students who can create write-ups, videos, or demonstrations for students of different learning styles, professional/academic interests, and motivation, and share them with other students. This also encourages students to dig deeper into the material as they teach their peers, and explain concepts in personalized ways so that students can feel connected to others in the class. They also get exposed to and can experiment with different forms/styles of communication, and help to improve the inclusiveness of the teams that they belong to.
 
 This would probably entail learning about each other's challenges and subcultures that each team member identifies with, as they make accommodations for and support each other. Subsequently, this can improve their ability to network socially and professionally.
 
-E.g., I can teach a course that is concurrently taught at a Hispanic-serving institutions (HSIs) and/or Historically Black Colleges and Universities (HBCUs), or with another research university in Europe, the Middle East, or Asia.
+E.g., as a teaching assistant and as a mentor, I try to understand students' motivations, career goals, and socioeconomic and academic backgrounds, so that I can personalize how I teach them certain concepts. I try to encourage peer tutoring, since I recognize that students can connect with their peers better than with me. I try to keep up academic literature regarding broadening participation in engineering and computer science, so that I can adopt good/best practices for inclusive diversity.
