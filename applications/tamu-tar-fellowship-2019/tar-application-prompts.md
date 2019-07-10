@@ -17,3 +17,5 @@ What is your understanding of each of the three terms below AND how would you us
 + i.	Teaching - as - Research
 + ii.	Learning Communities
 + iii.	Learning through Diversity (include here an example of how you have developed your understanding of diversity in learning contexts)
+
+***Information about these core ideas of CIRTL can be found at: https://www.cirtl.net/about/core_ideas.***
