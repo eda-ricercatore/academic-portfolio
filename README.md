@@ -15,3 +15,6 @@ Items that I plab to include in my academic portfolio are:
 		* projects
 		* quizzes
 		* tests/examinations
+
+
+[To be completed](https://www.unl.edu/gradstudies/current/development/academic-portfolio-1)
