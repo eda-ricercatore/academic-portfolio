@@ -24,15 +24,17 @@ When students incrementally update their repositories for their assignments and 
 2.i)
 I aspire to be a tenure-track assistant professor at a research university. As a professor, I want to educate the next generation of engineers, broaden participation of students from traditionally underrepresented/marginalized communities in electrical/computer engineering and computer science, and do research to make an impact in design automation and computer architecture that leads to societal and economic benefits.
 
-I want to expose undergraduates, including frosh students and sophomores taking introductory classes, to emerging technologies and good practices, workflows, and methodologies. This enables them to start doing research before the end of their junior year.
-
 2.ii)
-I hope to have replicate the mutually influential methodology for teaching and research that is demonstrated by some professors at University of California, Berkeley's Department of Electrical Engineering and Computer Sciences.
+I hope to demonstrate my ability to explore new techniques and models of pedagogy to improve student learning outcomes in computer engineering. In particular, I want to test pedagogical practices to help students learn emerging technologies, such as (INSERT appropriate technology for relevant course), under a mutually influential framework for teaching and research demonstrated by some illustrious computer engineering professors at UC Berkeley.
 
-That is, I want to test open source research deliverables for (electronic design automation, computer architecture, formal verification, compiler design, program/software analysis, or hardware security) to teach students emerging technologies, such as (INSERT appropriate technology for relevant course). This helps disseminate my research to other students
-demonstrated my ability to explore new techniques and models of pedagogy to improve student learning outcomes.
+The students would learn open source research deliverables for (electronic design automation, computer architecture, formal verification, compiler design, program/software analysis, or hardware security), which helps disseminates research to students and others, and improve testing of research deliverables.
 
-This would help me write my teaching statement when I apply for jobs in academia.
+These would help me write my teaching statement when I apply for jobs in academia.
+
+
+
+
+
 
 3.i)
 "Teaching-as-Research" refers to adopting the scientific approach to experimenting with new techniques and models of pedagogy. It involves acquiring experimental data that tests if my hypothesis of a teaching practice improves student outcomes over a semester.
