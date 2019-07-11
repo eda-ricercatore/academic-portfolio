@@ -25,7 +25,7 @@ When students incrementally update their repositories for their assignments and 
 I aspire to be a tenure-track assistant professor at a research university. As a professor, I want to educate the next generation of engineers, broaden participation of students from traditionally underrepresented/marginalized communities in electrical/computer engineering and computer science, and do research to make an impact in design automation and computer architecture that leads to societal and economic benefits.
 
 2.ii)
-I hope to demonstrate my ability to explore new techniques and models of pedagogy to improve student learning outcomes in computer engineering. In particular, I want to test pedagogical practices to help students learn emerging technologies, such as (INSERT appropriate technology for relevant course), under a mutually influential framework for teaching and research demonstrated by some illustrious computer engineering professors at UC Berkeley.
+I hope to demonstrate my ability to explore new techniques and models of pedagogy to improve student learning outcomes in computer engineering. In particular, I want to test pedagogical practices to help students learn emerging technologies, such as (INSERT appropriate technology for relevant course), under a mutually influential framework for teaching and research.
 
 The students would learn open source research deliverables for (electronic design automation, computer architecture, formal verification, compiler design, program/software analysis, or hardware security), which helps disseminates research to students and others, and improve testing of research deliverables.
 
