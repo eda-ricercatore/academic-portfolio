@@ -18,3 +18,7 @@ Items that I plab to include in my academic portfolio are:
 
 
 [To be completed](https://www.unl.edu/gradstudies/current/development/academic-portfolio-1)
+
+Resources:
++ https://www.unl.edu/mentoring/career-aspirations-and-prior-work-experience
++ https://www.unl.edu/gradstudies/current/pff
