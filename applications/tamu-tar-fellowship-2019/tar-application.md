@@ -22,9 +22,9 @@ I would adopt an opt-in data analytics approach to demonstrate improved learning
 When students incrementally update their repositories for their assignments and projects on GitHub, I can collect certain data such as the number of test cases passed and the number of lines of source code for each update. The set of chosen metrics would measure their productivity for a period of time (duration between updates).
 
 2.i)
-I aspire to be a tenure-track assistant professor at a research university. As a professor, I aspire to educate the next generation of engineers, broaden participation of students from traditionally underrepresented/marginalized communities in electrical/computer engineering and computer science, and do research to make an impact in design automation and computer architecture.
+I aspire to be a tenure-track assistant professor at a research university. As a professor, I want to educate the next generation of engineers, broaden participation of students from traditionally underrepresented/marginalized communities in electrical/computer engineering and computer science, and do research to make an impact in design automation and computer architecture that leads to societal and economic benefits.
 
-I want to expose undergraduates, including frosh students and sophomores taking introductory classes, to emerging technologies. This enables them to start doing research before the end of their junior year.
+I want to expose undergraduates, including frosh students and sophomores taking introductory classes, to emerging technologies and good practices, workflows, and methodologies. This enables them to start doing research before the end of their junior year.
 
 2.ii)
 I hope to have replicate the mutually influential methodology for teaching and research that is demonstrated by some professors at University of California, Berkeley's Department of Electrical Engineering and Computer Sciences.
@@ -35,22 +35,16 @@ demonstrated my ability to explore new techniques and models of pedagogy to impr
 This would help me write my teaching statement when I apply for jobs in academia.
 
 3.i)
-"Teaching-as-Research" refers to adopting scientific approach to experimenting with new techniques and models of pedagogy.
+"Teaching-as-Research" refers to adopting the scientific approach to experimenting with new techniques and models of pedagogy. It involves acquiring experimental data that tests if my hypothesis of a teaching practice improves student outcomes over a semester.
 
-By adopting a data analytics approach to teaching, I can quantify how the students are learning over time, and when cliques of them demonstrate difficulties in learning different concepts that have been taught in class during the past week.
+By adopting a data analytics approach to teaching, I can quantify how the students are learning over time, and when cliques of them demonstrate difficulties in learning different recently-taught concepts.
 
 3.ii)
-"Learning Communities" refers to groups of students assembled for the purpose of learning certain knowledge as well as producing deliverables to demonstrate the knowledge that they have acquired. This can be implemented via group projects for a course, or via residential communities in a residential college/hall (or dormitory).
-
-Apart from group projects for my coursework, I have experienced living with learning communities in residential colleges at the University of Adelaide and the University of Southern California.
-
-Also, I have participated in activities organized by MSC CAMAC, which is a learning community to help students learn about issues facing the Latinx community and Latinx subcultures.    
+"Learning Communities" refers to groups of students assembled for the purpose of learning and applying certain knowledge. I plan to facilitate shared learning: by assigning group projects for a course; provide allocated time for small group discussion during classes; award extra credit to students who open source their study notes and project deliverables, so that other people can learn from their work and build upon it; and have a in-class panel discussion with faculty, postdocs, and staff to share their experiences of applying what they learned in a comparable course in the workplace.
 
 3.iii)
-"Learning through Diversity" refers to learning with and from a diverse community of students. This includes students from different socioeconomic backgrounds, such as students from traditionally underrepresented/marginalized communities in academia (specifically ECE, for my case), as well as students of different identities, (dis)abilities, and learning styles.
+"Learning through Diversity" refers to learning with and from a diverse community of students. This includes students from different (socioeconomic) backgrounds, including students of different identities, (dis)abilities, and learning styles.
 
-To improve student learning by utilizing different strengths of the diverse class of students, I would encourage peer tutoring by award extra credit to students who can create write-ups, videos, or demonstrations for students of different learning styles, professional/academic interests, and motivation, and share them with other students. This also encourages students to dig deeper into the material as they teach their peers, and explain concepts in personalized ways so that students can feel connected to others in the class. They also get exposed to and can experiment with different forms/styles of communication, and help to improve the inclusiveness of the teams that they belong to.
+To practice this, I would encourage peer tutoring by award extra credit to students who can create write-ups, videos, or demonstrations for students of different learning styles, professional/academic interests, and motivation, and share them with other students. This also encourages students to delve into the material more to improve personalization of the teaching process.
 
-This would probably entail learning about each other's challenges and subcultures that each team member identifies with, as they make accommodations for and support each other. Subsequently, this can improve their ability to network socially and professionally.
-
-E.g., as a teaching assistant and as a mentor, I try to understand students' motivations, career goals, and socioeconomic and academic backgrounds, so that I can personalize how I teach them certain concepts. I try to encourage peer tutoring, since I recognize that students can connect with their peers better than with me. I try to keep up academic literature regarding broadening participation in engineering and computer science, so that I can adopt good/best practices for inclusive diversity.
+As a teaching assistant and mentor, I try to understand students' motivations, career goals, and socioeconomic and academic backgrounds, so that I can personalize how I teach certain concepts. I try adopt good/best practices for inclusive diversity that I read from academic literature regarding broadening participation in engineering and computer science. Being a resident of a multicultural learning and living community at USC, and being involved in culture-specific student organizations, like MSC CAMAC, helps me learn from students of different perspectives.
