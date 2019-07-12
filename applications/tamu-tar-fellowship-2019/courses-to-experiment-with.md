@@ -45,9 +45,38 @@ CSE courses
 	- Prof. Robert H. Lightfoot
 		* rob.light@tamu.edu
 + CSCE 120 Program Design and Concepts
+	- Not offered in Fall 2019.
 + CSCE 121 Introduction to Program Design and Concepts
+	- Prof. Thomas Ioerger
+		* http://orca2.tamu.edu/tom/web_home/index.html
+		* ioerger@cs.tamu.edu
+	- Dr. John M. Moore
+		* http://faculty.cse.tamu.edu/jmichael/
+		* jmichael@cse.tamu.edu
+	- Carlos Ferreira
+	- Prof. Philip C. Ritchey
+		* pcr@tamu.edu
+	- Prof. Dilma Da Silva
+		* http://faculty.cse.tamu.edu/dilma/
+		* dilma@cse.tamu.edu
+	- Mr. Michael R. Nowak
+		* mrn@michaelrnowak.com
+	- Dr. Teresa Leyk
+		* http://courses.cs.tamu.edu/teresa/
+		* teresa@cse.tamu.edu
 + CSCE 206 Structured Programming in C
+	- Dr. Ki Hwan K. Yum
+		* yum@cse.tamu.edu
 + CSCE 221 Data Structures and Algorithms
+	- Prof. Jennifer Welch
+		* welch@cse.tamu.edu
+		* j-welch@tamu.edu
+		* https://parasol.tamu.edu/people/welch/
+	- Mr. Shawn V. Lupoli
+		* slupoli@tamu.edu
+	- Prof. Aakash Tyagi
+		* tyagi@cse.tamu.edu
+		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 312 Computer Organization
 + CSCE 313 Introduction to Computer Systems
 + CSCE 314 Programming Languages
