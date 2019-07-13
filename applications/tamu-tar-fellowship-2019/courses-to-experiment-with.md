@@ -18,10 +18,10 @@ ECE courses:
 		* 
 	- [ ] Prof. John D. Lusher
 		* 
-+ ECEN 454/ECEN 714 Digital Integrated Circuit Design
-	- [ ] Prof. Weiping Shi
 + ECEN 449 Microprocessor system design
 	- [ ] Prof. Pierce E. Cantrell
++ ECEN 454/ECEN 714 Digital Integrated Circuit Design
+	- [ ] Prof. Weiping Shi
 + ECEN 475 Introduction to VLSI System Design
 	- [ ] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
