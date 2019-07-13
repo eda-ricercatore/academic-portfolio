@@ -43,10 +43,10 @@ CSE courses
 + [Undergrad CSE courses](https://catalog.tamu.edu/undergraduate/course-descriptions/csce/)
 + [Grad-level CSE courses](https://catalog.tamu.edu/graduate/course-descriptions/csce/)
 + CSCE 110 Programming 1
-	- [ ] Prof. David Kebo Houngninou
+	- [x] Prof. David Kebo Houngninou
 		* davidkebo@tamu.edu
 + CSCE 111 Introduction to Computer Science Concepts and Programming
-	- [ ] Prof. Robert H. Lightfoot
+	- [x] Prof. Robert H. Lightfoot
 		* rob.light@tamu.edu
 + CSCE 120 Program Design and Concepts
 	- Not offered in Fall 2019.
@@ -69,7 +69,7 @@ CSE courses
 		* http://courses.cs.tamu.edu/teresa/
 		* teresa@cse.tamu.edu
 + CSCE 206 Structured Programming in C
-	- [ ] Dr. Ki Hwan K. Yum
+	- [x] Dr. Ki Hwan K. Yum
 		* yum@cse.tamu.edu
 + CSCE 221 Data Structures and Algorithms
 	- [ ] Prof. Jennifer Welch
