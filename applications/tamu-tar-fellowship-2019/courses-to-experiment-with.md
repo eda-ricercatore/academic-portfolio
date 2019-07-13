@@ -89,13 +89,13 @@ CSE courses
 		* tyagi@cse.tamu.edu
 		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 313 Introduction to Computer Systems
-	- [ ] Dr. Dmitri Loguinov
+	- [x] Dr. Dmitri Loguinov
 		* dmitri@cse.tamu.edu
 		* dmitri@cs.tamu.edu
 		* http://irl.cse.tamu.edu/people/dmitri/
-	- [ ] Dr. Sarker T. Ahmed
+	- [x] Dr. Sarker T. Ahmed
 		* tanzir@tamu.edu
-	- [ ] Prof. Riccardo Bettati
+	- [x] Prof. Riccardo Bettati
 		* bettati@cs.tamu.edu
 + CSCE 314 Programming Languages
 	- [ ] Mr. Shawn V. Lupoli
@@ -116,18 +116,18 @@ CSE courses
 	- [ ] Prof. Philip C. Ritchey
 		* pcr@tamu.edu
 + CSCE 462 Microcomputer Systems
-	- [ ] Prof. Jyh Liu, Jyh-Charn (Steve) Liu
+	- [x] Prof. Jyh Liu, Jyh-Charn (Steve) Liu
 		* liu@cse.tamu.edu
 		* https://rtds.cse.tamu.edu/
 		* https://engineering.tamu.edu/cse/profiles/jliu.html
 + CSCE 483 Computer Systems Design
-	- [ ] Prof. Robin Murphy
+	- [x] Prof. Robin Murphy
 		* murphy@cse.tamu.edu
 + CSCE 606 Software Engineering
-	- [ ] Prof. Duncan Walker
+	- [x] Prof. Duncan Walker
 		* walker@cse.tamu.edu
 + CSCE 614 Computer Architecture
-	- [ ] Prof. Daniel A. Jimenez (copy name from Web page)
+	- [x] Prof. Daniel A. Jimenez (copy name from Web page)
 		* djimenez@acm.org
 		* http://taco.cs.tamu.edu/
 		* http://faculty.cse.tamu.edu/djimenez
@@ -152,7 +152,7 @@ CSE courses
 		* caverlee@cse.tamu.edu
 		* http://faculty.cse.tamu.edu/caverlee/
 + CSCE/ECEN 680 Testing and Diagnosis of Digital Systems
-	- [ ] Prof. Duncan Walker
+	- [x] Prof. Duncan Walker
 		* walker@cse.tamu.edu
 
 
