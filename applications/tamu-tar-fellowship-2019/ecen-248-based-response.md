@@ -23,7 +23,7 @@ d) frequent student feedback (quantitative and unstructured data) about class in
 I aspire to be a tenure-track assistant professor at a research university. I want to educate future generations of engineers, broaden participation of students from traditionally underrepresented communities in ECE, and do research to make an impact in design automation and computer architecture.
 
 2.ii)
-I hope to demonstrate my ability to use data science to adjust teaching strategies to improve student learning outcomes in ECE. I want improve my teaching philosophy with this teaching-as-research experience to be more supportive of academically struggling students.
+I hope to demonstrate my ability to use data science to adjust teaching strategies to improve student learning outcomes in ECE. I want improve my teaching philosophy with this teaching-as-research experience, and be more supportive of academically struggling students.
 
 3.i)
 "Teaching-as-Research" refers to adopting the scientific approach to experimenting with new techniques and models of pedagogy. It involves acquiring experimental data that tests if my hypothesis of a teaching practice improves student outcomes over a semester. By adopting a data analytics approach to teaching, I can quantify how the students are learning over time, and the number of students struggling to learn recently-taught concepts.
