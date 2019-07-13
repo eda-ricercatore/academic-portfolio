@@ -16,7 +16,7 @@ By tracking the teaching strategies used in the intervention of academic struggl
 I would collection the following information:
 a) student grades from each component of the course assessment;
 b) the type of teaching strategies used for intervention, and date and extent (in person-minutes) of intervention - strategies include re-teaching concepts, providing additional office hours, and in-class peer instruction;
-c) number and extent of contributions to students' GitHub repositories for the course, and the proportion of test cased passed from simulating their processor designs against TA-provided testbenches; and
+c) number and extent of contributions to students' GitHub repositories for the course, the proportion of test cases passed from simulating their Verilog-based processor designs with testbenches; and
 d) frequent student feedback (quantitative and unstructured data) about class instruction.
 
 2.i)
