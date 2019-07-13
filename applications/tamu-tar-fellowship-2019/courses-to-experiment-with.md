@@ -2,6 +2,11 @@
 
 
 ECE courses:
++ ECEN 214 Electrical Circuit Theory
+	- [x] Prof. Oscar Moreira-Tamayo
+		* omoreira@tamu.edu
+	- [x] Prof. Sung I. Park
+		* sipark@tamu.edu
 + ECEN 248 Introduction to Digital Systems Design
 	- [x] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
