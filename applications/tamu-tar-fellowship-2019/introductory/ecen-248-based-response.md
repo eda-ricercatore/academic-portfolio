@@ -1,7 +1,7 @@
 1.i)
 My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
 
-Data analytics can help to reduce drop-out rates from the course, academic program, or from the university, if intervention strategies are implemented early on (before the first midterm) to recognize early signs of students struggling in introductory courses of electrical/computer engineering (ECE), such as ECEN 248 on logic design.
+Data analytics can help to reduce drop-out rates from the course, academic program, or from the university, if intervention strategies are implemented early on (before the midterm) to recognize early signs of students struggling in introductory courses of electrical/computer engineering (ECE), such as ECEN 248 on logic design.
 
 1.ii)
 Firstly, the sections of ECEN 248 are split into a control group and an experimental/treatment group.

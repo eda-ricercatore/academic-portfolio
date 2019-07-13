@@ -1,7 +1,7 @@
 1.i)
 My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
 
-Data analytics can help to reduce drop-out rates from the course, or lost interest in certain computer science/engineering (CSE) areas, if intervention strategies are implemented early on (before the first midterm) to recognize early signs of students struggling in intermediate CSE courses, such as CSCE 315 on software engineering.
+Data analytics can help to reduce drop-out rates from the course, or lost interest in certain computer science/engineering (CSE) areas, if intervention strategies are implemented early on (before the midterm) to recognize early signs of students struggling in intermediate CSE courses, such as CSCE 315 on software engineering.
 
 1.ii)
 Firstly, the sections of CSCE 315 are split into a control group and an experimental/treatment group.
