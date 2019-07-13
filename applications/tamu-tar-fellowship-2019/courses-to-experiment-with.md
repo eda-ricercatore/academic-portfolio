@@ -19,11 +19,11 @@ ECE courses:
 	- [x] Prof. John D. Lusher
 		* 
 + ECEN 449 Microprocessor system design
-	- [ ] Prof. Pierce E. Cantrell
+	- [x] Prof. Pierce E. Cantrell
 + ECEN 454/ECEN 714 Digital Integrated Circuit Design
-	- [ ] Prof. Weiping Shi
+	- [x] Prof. Weiping Shi
 + ECEN 475 Introduction to VLSI System Design
-	- [ ] Prof. Gwan Choi
+	- [x] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
 		* https://engineering.tamu.edu/electrical/profiles/gchoi.html
 		* gwanchoi@tamu.edu
@@ -85,7 +85,7 @@ CSE courses
 	- [ ] Prof. Eun Jung Kim
 		* http://faculty.cse.tamu.edu/ejkim/
 		* ejkim@cs.tamu.edu
-	- [ ] Prof. Aakash Tyagi
+	- [x] Prof. Aakash Tyagi
 		* tyagi@cse.tamu.edu
 		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 313 Introduction to Computer Systems
