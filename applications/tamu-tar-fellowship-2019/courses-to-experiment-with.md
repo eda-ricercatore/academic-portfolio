@@ -78,13 +78,48 @@ CSE courses
 		* tyagi@cse.tamu.edu
 		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 312 Computer Organization
+	- Prof. Eun Jung Kim
+		* http://faculty.cse.tamu.edu/ejkim/
+		* ejkim@cs.tamu.edu
+	- Prof. Aakash Tyagi
+		* tyagi@cse.tamu.edu
+		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 313 Introduction to Computer Systems
+	- Dr. Dmitri Loguinov
+		* dmitri@cse.tamu.edu
+		* dmitri@cs.tamu.edu
+		* http://irl.cse.tamu.edu/people/dmitri/
+	- Dr. Sarker T. Ahmed
+		* tanzir@tamu.edu
+	- Prof. Riccardo Bettati
+		* bettati@cs.tamu.edu
 + CSCE 314 Programming Languages
+	- Mr. Shawn V. Lupoli
+		* slupoli@tamu.edu
 + CSCE 320/STAT 335 Principles of Data Science
+	- Dr. Su Chen
+		* s.chen@utexas.edu
 + CSCE 350/ECEN 350 Computer Architecture and Design
-
-
-
+	- Not offered in Fall 2019.
++ CSCE 421/STAT 421 Machine Learning
+	- Prof. Theodora Chaspari
+		* chaspari@tamu.edu
+		* http://chaspari.engr.tamu.edu/
++ CSCE 462 Microcomputer Systems
+	- Prof. Jyh Liu, Jyh-Charn (Steve) Liu
+		* liu@cse.tamu.edu
+		* https://rtds.cse.tamu.edu/
+		* https://engineering.tamu.edu/cse/profiles/jliu.html
++ CSCE 483 Computer Systems Design
+	- Prof. Robin Murphy
+		* murphy@cse.tamu.edu
++ CSCE 614 Computer Architecture
+	- Prof. Daniel A. Jimenez (copy name from Web page)
+		* djimenez@acm.org
+		* http://taco.cs.tamu.edu/
+		* http://faculty.cse.tamu.edu/djimenez
++ CSCE 633 Machine Learning
+	- 	Bobak Mortazavi
 
 
 
