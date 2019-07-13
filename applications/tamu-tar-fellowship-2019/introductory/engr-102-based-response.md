@@ -1,10 +1,10 @@
 1.i)
 My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
 
-Data analytics can help to recognize and assist students with inadequate academic background for the course, if intervention strategies are implemented early on (before the midterm) to recognize early signs of students struggling in advanced computer science/engineering (CSE) courses (e.g., CSCE 633 on machine learning).
+Data analytics can help to reduce drop-out rates from the course, academic program, or from the university, if intervention strategies are implemented early on (before the first midterm) to recognize early signs of students struggling in introductory courses of computer science/engineering (CSE), such as ENGR 102 on computer programming.
 
 1.ii)
-Firstly, the students of CSCE 633 are split into a control group and an experimental/treatment group.
+Firstly, the sections of CSCE 102 are split into a control group and an experimental/treatment group.
 
 For the control group, instructors would have no additional help to use data science to improve their teaching strategies during the course of the semester.
 
@@ -16,7 +16,7 @@ By tracking the teaching strategies used in the intervention of academic struggl
 I would collection the following information:
 a) student grades from each component of the course assessment;
 b) the type of teaching strategies used for intervention, and date and extent (in person-minutes) of intervention - strategies include re-teaching concepts, providing additional office hours, and in-class peer instruction;
-c) number and extent of contributions to students' GitHub repositories, figures of merit of their solutions when benchmarked with TA-provided data sets against their peers; and
+c) number and extent of contributions to students' GitHub repositories, percentage of test cases passed from testing with TA-provided test suites; figures of merit of their programs; and
 d) frequent student feedback (quantitative and unstructured data) about class instruction.
 
 2.i)
@@ -35,4 +35,3 @@ I hope to demonstrate my ability to use data science to adjust teaching strategi
 "Learning through Diversity" refers to learning with and from a diverse community of students. This includes students from different (socioeconomic) backgrounds, and of different identities, (dis)abilities, and learning styles. To practice this, I would encourage peer tutoring by awarding extra credit to students who can create write-ups, videos, or demonstrations for students of different learning styles, professional/academic interests, and motivation, and share them with other students.
 
 As a TA and mentor, I try to understand students' motivations, career goals, and socioeconomic and academic backgrounds, so that I can personalize how I teach certain concepts. I try adopt good/best practices for inclusive diversity that I read from academic literature regarding broadening participation in CSE. Being a resident of a multicultural learning and living community at USC, and being involved in culture-specific student organizations, like MSC CAMAC, helps me learn from students of different perspectives.
-

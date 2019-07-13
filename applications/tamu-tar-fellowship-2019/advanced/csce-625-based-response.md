@@ -1,10 +1,10 @@
 1.i)
 My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
 
-Data analytics can help to recognize and assist students with inadequate academic background for the course, if intervention strategies are implemented early on (before the midterm) to recognize early signs of students struggling in advanced computer science/engineering (CSE) courses (e.g., CSCE 614 on computer architecture).
+Data analytics can help to recognize and assist students with inadequate academic background for the course, if intervention strategies are implemented early on (before the midterm) to recognize early signs of students struggling in advanced computer science/engineering (CSE) courses (e.g., CSCE 625 on artificial intelligence).
 
 1.ii)
-Firstly, the students of CSCE 614 are split into a control group and an experimental/treatment group.
+Firstly, the students of CSCE 606 are split into a control group and an experimental/treatment group.
 
 For the control group, instructors would have no additional help to use data science to improve their teaching strategies during the course of the semester.
 
@@ -16,7 +16,7 @@ By tracking the teaching strategies used in the intervention of academic struggl
 I would collection the following information:
 a) student grades from each component of the course assessment;
 b) the type of teaching strategies used for intervention, and date and extent (in person-minutes) of intervention - strategies include re-teaching concepts, providing additional office hours, and in-class peer instruction;
-c) number and extent of contributions to students' GitHub repositories for the course, the proportion of test cases passed from testing their processor simulators; execution time on benchmarks for microarchitecture solutions; and
+c) number and extent of contributions to students' GitHub repositories, percentage of test cases passed from testing with TA-provided test suites, figures of merit of their software; and
 d) frequent student feedback (quantitative and unstructured data) about class instruction.
 
 2.i)
