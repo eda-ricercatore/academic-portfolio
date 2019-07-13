@@ -101,7 +101,7 @@ CSE courses
 	- [ ] Mr. Shawn V. Lupoli
 		* slupoli@tamu.edu
 + CSCE 315 Programming Studio
-	- [ ] Prof. Robert H. Lightfoot
+	- [x] Prof. Robert H. Lightfoot
 		* rob.light@tamu.edu
 + CSCE 320/STAT 335 Principles of Data Science
 	- [ ] Dr. Su Chen; not a professor at Texas A&M
@@ -113,7 +113,7 @@ CSE courses
 		* chaspari@tamu.edu
 		* http://chaspari.engr.tamu.edu/
 + CSCE 431 Software Engineering
-	- [ ] Prof. Philip C. Ritchey
+	- [x] Prof. Philip C. Ritchey
 		* pcr@tamu.edu
 + CSCE 462 Microcomputer Systems
 	- [x] Prof. Jyh Liu, Jyh-Charn (Steve) Liu
