@@ -1,4 +1,5 @@
-1.i) My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
+1.i)
+My research question is whether performing data analytics about students' academic performance and frequent feedback about class/laboratory instruction can be used to improve intervention strategies for struggling students by course instructors and teaching assistants (TAs).
 
 Data analytics can help to reduce drop-out rates from the course, academic program, or from the university, if intervention strategies are implemented early on (before the first midterm) to recognize early signs of students struggling in introductory courses of electrical/computer engineering (ECE), such as ECEN 248 on logic design.
 
@@ -15,11 +16,11 @@ By tracking the teaching strategies used in the intervention of academic struggl
 I would collection the following information:
 a) student grades from each component of the course assessment;
 b) the type of teaching strategies used for intervention, and date and extent (in person-minutes) of intervention - strategies include re-teaching concepts, providing additional office hours, and in-class peer instruction;
-c) number of contributions to students' GitHub repositories for the course, their extent (i.e., lines of code), for their Verilog-based logic design assignments and their results from simulating their Verilog designs against TA-provided testbenches; and
-d) frequent feedback (quantitative and unstructured data) from students about class and laboratory instruction.
+c) number and extent of contributions to students' GitHub repositories for the course, and the proportion of test cased passed from simulating their Verilog designs against TA-provided testbenches; and
+d) frequent student feedback (quantitative and unstructured data) about class instruction.
 
 2.i)
-I aspire to be a tenure-track assistant professor at a research university. I want to educate future generation of engineers, broaden participation of students from traditionally underrepresented communities in ECE, and do research to make an impact in design automation and computer architecture.
+I aspire to be a tenure-track assistant professor at a research university. I want to educate future generations of engineers, broaden participation of students from traditionally underrepresented communities in ECE, and do research to make an impact in design automation and computer architecture.
 
 2.ii)
 I hope to demonstrate my ability to use data science to adjust teaching strategies to improve student learning outcomes in ECE. I want improve my teaching philosophy with this teaching-as-research experience to be more supportive of academically struggling students.
