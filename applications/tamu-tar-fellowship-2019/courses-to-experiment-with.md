@@ -30,7 +30,7 @@ ECE courses:
 + ECEN 489-503/ECEN 689-602 Applied Information Science Lab
 	- [ ] Prof. Jean-Francois Chamberland-Tremblay
 		* chmbrlnd@tamu.edu
-		* Skip this, since use of Kaggle-based class competitions already provide some information???
+		* Skip this, since use of Kaggle-hosted class competitions already provide some information???
 + ECEN 676 Advanced Computer Architecture
 	- [ ] Prof. Paul Gratz
 		* pgratz@gratz1.com
