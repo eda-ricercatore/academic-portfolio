@@ -96,6 +96,9 @@ CSE courses
 + CSCE 314 Programming Languages
 	- Mr. Shawn V. Lupoli
 		* slupoli@tamu.edu
++ CSCE 315 Programming Studio
+	- Prof. Robert H. Lightfoot
+		* rob.light@tamu.edu
 + CSCE 320/STAT 335 Principles of Data Science
 	- Dr. Su Chen
 		* s.chen@utexas.edu
@@ -105,6 +108,9 @@ CSE courses
 	- Prof. Theodora Chaspari
 		* chaspari@tamu.edu
 		* http://chaspari.engr.tamu.edu/
++ CSCE 431 Software Engineering
+	- Prof. Philip C. Ritchey
+		* pcr@tamu.edu
 + CSCE 462 Microcomputer Systems
 	- Prof. Jyh Liu, Jyh-Charn (Steve) Liu
 		* liu@cse.tamu.edu
@@ -119,17 +125,23 @@ CSE courses
 		* http://taco.cs.tamu.edu/
 		* http://faculty.cse.tamu.edu/djimenez
 + CSCE 633 Machine Learning
-	- 	Bobak Mortazavi
-
-
-
-
-
-
-
-
-+ ECEN 680 Testing and Diagnosis of Digital Systems
+	- Prof. Bobak Mortazavi
+		* bobakm@tamu.edu
+		* https://stmi.engr.tamu.edu/
+		* https://engineering.tamu.edu/cse/profiles/mortazavi-bobak.html
+	- Prof. Zhangyang Wang, Zhangyang (Atlas) Wang
+		* atlaswang@tamu.edu
+		* https://www.atlaswang.com/
++ CSCE 636 Deep Learning
+	- Prof. Shuiwang Ji
+		* sji@tamu.edu
+		* http://people.tamu.edu/~sji/
++ CSCE 676 Data Mining and Analysis
+	- Prof. James Caverlee
+		* caverlee@cse.tamu.edu
+		* http://faculty.cse.tamu.edu/caverlee/
++ CSCE/ECEN 680 Testing and Diagnosis of Digital Systems
 	- Prof. Duncan Walker
 		* walker@cse.tamu.edu
 
- 	751	COMP METHOD INT SYS DSGN
+
