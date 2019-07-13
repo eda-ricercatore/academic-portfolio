@@ -3,7 +3,7 @@
 
 ECE courses:
 + ECEN 248 Introduction to Digital Systems Design
-	- [ ] Prof. Gwan Choi
+	- [x] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
 		* https://engineering.tamu.edu/electrical/profiles/gchoi.html
 		* gwanchoi@tamu.edu
@@ -11,12 +11,12 @@ ECE courses:
 		* https://cesg.tamu.edu/faculty/jv/
 		* jv.rajendran@tamu.edu
 		* https://seth.engr.tamu.edu/
-	- [ ] Prof. Samuel S. Villareal
+	- [x] Prof. Samuel S. Villareal
 		* svilla@ece.tamu.edu
 + ECEN 350 Computer Architecture and Design
-	- [ ] Prof. Mi Lu
+	- [x] Prof. Mi Lu
 		* 
-	- [ ] Prof. John D. Lusher
+	- [x] Prof. John D. Lusher
 		* 
 + ECEN 449 Microprocessor system design
 	- [ ] Prof. Pierce E. Cantrell
