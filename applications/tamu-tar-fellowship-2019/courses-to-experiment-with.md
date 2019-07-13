@@ -27,6 +27,9 @@ ECE courses:
 		* https://cesg.tamu.edu/faculty/gwan-choi/
 		* https://engineering.tamu.edu/electrical/profiles/gchoi.html
 		* gwanchoi@tamu.edu
++ ECEN 489-503/ECEN 689-602 Applied Information Science Lab
+	- [ ] Prof. Jean-Francois Chamberland-Tremblay
+		* chmbrlnd@tamu.edu
 + ECEN 676 Advanced Computer Architecture
 	- [ ] Prof. Paul Gratz
 		* pgratz@gratz1.com
