@@ -123,6 +123,9 @@ CSE courses
 + CSCE 483 Computer Systems Design
 	- [ ] Prof. Robin Murphy
 		* murphy@cse.tamu.edu
++ CSCE 606 Software Engineering
+	- [ ] Prof. Duncan Walker
+		* walker@cse.tamu.edu
 + CSCE 614 Computer Architecture
 	- [ ] Prof. Daniel A. Jimenez (copy name from Web page)
 		* djimenez@acm.org
