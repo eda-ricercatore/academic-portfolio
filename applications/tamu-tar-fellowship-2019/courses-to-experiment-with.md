@@ -3,145 +3,145 @@
 
 ECE courses:
 + ECEN 248 Introduction to Digital Systems Design
-	- Prof. Gwan Choi
+	- [ ] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
 		* https://engineering.tamu.edu/electrical/profiles/gchoi.html
 		* gwanchoi@tamu.edu
-	- Prof. Jeyavijayan Rajendran
+	- [ ] Prof. Jeyavijayan Rajendran
 		* https://cesg.tamu.edu/faculty/jv/
 		* jv.rajendran@tamu.edu
 		* https://seth.engr.tamu.edu/
-	- Prof. Samuel S. Villareal
+	- [ ] Prof. Samuel S. Villareal
 		* svilla@ece.tamu.edu
 + ECEN 350 Computer Architecture and Design
-	- Prof. Mi Lu
+	- [ ] Prof. Mi Lu
 		* 
-	- Prof. John D. Lusher
+	- [ ] Prof. John D. Lusher
 		* 
 + ECEN 454/ECEN 714 Digital Integrated Circuit Design
-	- Prof. Weiping Shi
+	- [ ] Prof. Weiping Shi
 + ECEN 449 Microprocessor system design
-	- Prof. Pierce E. Cantrell
+	- [ ] Prof. Pierce E. Cantrell
 + ECEN 475 Introduction to VLSI System Design
-	- Prof. Gwan Choi
+	- [ ] Prof. Gwan Choi
 		* https://cesg.tamu.edu/faculty/gwan-choi/
 		* https://engineering.tamu.edu/electrical/profiles/gchoi.html
 		* gwanchoi@tamu.edu
 + ECEN 676 Advanced Computer Architecture
-	- Prof. Paul Gratz
+	- [ ] Prof. Paul Gratz
 		* pgratz@gratz1.com
 		* https://cesg.tamu.edu/faculty/paul-gratz/
 + ECEN 751 Computational Methods for Integrated System Design
-	- Prof. Peng Li???
+	- [ ] Prof. Peng Li???
 		* The course is cancelled.
 
 CSE courses
 + [Undergrad CSE courses](https://catalog.tamu.edu/undergraduate/course-descriptions/csce/)
 + [Grad-level CSE courses](https://catalog.tamu.edu/graduate/course-descriptions/csce/)
 + CSCE 110 Programming 1
-	- Prof. David Kebo Houngninou
+	- [ ] Prof. David Kebo Houngninou
 		* davidkebo@tamu.edu
 + CSCE 111 Introduction to Computer Science Concepts and Programming
-	- Prof. Robert H. Lightfoot
+	- [ ] Prof. Robert H. Lightfoot
 		* rob.light@tamu.edu
 + CSCE 120 Program Design and Concepts
 	- Not offered in Fall 2019.
 + CSCE 121 Introduction to Program Design and Concepts
-	- Prof. Thomas Ioerger
+	- [ ] Prof. Thomas Ioerger
 		* http://orca2.tamu.edu/tom/web_home/index.html
 		* ioerger@cs.tamu.edu
-	- Dr. John M. Moore
+	- [ ] Dr. John M. Moore
 		* http://faculty.cse.tamu.edu/jmichael/
 		* jmichael@cse.tamu.edu
 	- Carlos Ferreira
-	- Prof. Philip C. Ritchey
+	- [ ] Prof. Philip C. Ritchey
 		* pcr@tamu.edu
-	- Prof. Dilma Da Silva
+	- [ ] Prof. Dilma Da Silva
 		* http://faculty.cse.tamu.edu/dilma/
 		* dilma@cse.tamu.edu
-	- Mr. Michael R. Nowak
+	- [ ] Mr. Michael R. Nowak
 		* mrn@michaelrnowak.com
-	- Dr. Teresa Leyk
+	- [ ] Dr. Teresa Leyk
 		* http://courses.cs.tamu.edu/teresa/
 		* teresa@cse.tamu.edu
 + CSCE 206 Structured Programming in C
-	- Dr. Ki Hwan K. Yum
+	- [ ] Dr. Ki Hwan K. Yum
 		* yum@cse.tamu.edu
 + CSCE 221 Data Structures and Algorithms
-	- Prof. Jennifer Welch
+	- [ ] Prof. Jennifer Welch
 		* welch@cse.tamu.edu
 		* j-welch@tamu.edu
 		* https://parasol.tamu.edu/people/welch/
-	- Mr. Shawn V. Lupoli
+	- [ ] Mr. Shawn V. Lupoli
 		* slupoli@tamu.edu
-	- Prof. Aakash Tyagi
+	- [ ] Prof. Aakash Tyagi
 		* tyagi@cse.tamu.edu
 		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 312 Computer Organization
-	- Prof. Eun Jung Kim
+	- [ ] Prof. Eun Jung Kim
 		* http://faculty.cse.tamu.edu/ejkim/
 		* ejkim@cs.tamu.edu
-	- Prof. Aakash Tyagi
+	- [ ] Prof. Aakash Tyagi
 		* tyagi@cse.tamu.edu
 		* https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html
 + CSCE 313 Introduction to Computer Systems
-	- Dr. Dmitri Loguinov
+	- [ ] Dr. Dmitri Loguinov
 		* dmitri@cse.tamu.edu
 		* dmitri@cs.tamu.edu
 		* http://irl.cse.tamu.edu/people/dmitri/
-	- Dr. Sarker T. Ahmed
+	- [ ] Dr. Sarker T. Ahmed
 		* tanzir@tamu.edu
-	- Prof. Riccardo Bettati
+	- [ ] Prof. Riccardo Bettati
 		* bettati@cs.tamu.edu
 + CSCE 314 Programming Languages
-	- Mr. Shawn V. Lupoli
+	- [ ] Mr. Shawn V. Lupoli
 		* slupoli@tamu.edu
 + CSCE 315 Programming Studio
-	- Prof. Robert H. Lightfoot
+	- [ ] Prof. Robert H. Lightfoot
 		* rob.light@tamu.edu
 + CSCE 320/STAT 335 Principles of Data Science
-	- Dr. Su Chen
+	- [ ] Dr. Su Chen; not a professor at Texas A&M
 		* s.chen@utexas.edu
 + CSCE 350/ECEN 350 Computer Architecture and Design
-	- Not offered in Fall 2019.
+	- [ ] Not offered in Fall 2019.
 + CSCE 421/STAT 421 Machine Learning
-	- Prof. Theodora Chaspari
+	- [ ] Prof. Theodora Chaspari
 		* chaspari@tamu.edu
 		* http://chaspari.engr.tamu.edu/
 + CSCE 431 Software Engineering
-	- Prof. Philip C. Ritchey
+	- [ ] Prof. Philip C. Ritchey
 		* pcr@tamu.edu
 + CSCE 462 Microcomputer Systems
-	- Prof. Jyh Liu, Jyh-Charn (Steve) Liu
+	- [ ] Prof. Jyh Liu, Jyh-Charn (Steve) Liu
 		* liu@cse.tamu.edu
 		* https://rtds.cse.tamu.edu/
 		* https://engineering.tamu.edu/cse/profiles/jliu.html
 + CSCE 483 Computer Systems Design
-	- Prof. Robin Murphy
+	- [ ] Prof. Robin Murphy
 		* murphy@cse.tamu.edu
 + CSCE 614 Computer Architecture
-	- Prof. Daniel A. Jimenez (copy name from Web page)
+	- [ ] Prof. Daniel A. Jimenez (copy name from Web page)
 		* djimenez@acm.org
 		* http://taco.cs.tamu.edu/
 		* http://faculty.cse.tamu.edu/djimenez
 + CSCE 633 Machine Learning
-	- Prof. Bobak Mortazavi
+	- [ ] Prof. Bobak Mortazavi
 		* bobakm@tamu.edu
 		* https://stmi.engr.tamu.edu/
 		* https://engineering.tamu.edu/cse/profiles/mortazavi-bobak.html
-	- Prof. Zhangyang Wang, Zhangyang (Atlas) Wang
+	- [ ] Prof. Zhangyang Wang, Zhangyang (Atlas) Wang
 		* atlaswang@tamu.edu
 		* https://www.atlaswang.com/
 + CSCE 636 Deep Learning
-	- Prof. Shuiwang Ji
+	- [ ] Prof. Shuiwang Ji
 		* sji@tamu.edu
 		* http://people.tamu.edu/~sji/
 + CSCE 676 Data Mining and Analysis
-	- Prof. James Caverlee
+	- [ ] Prof. James Caverlee
 		* caverlee@cse.tamu.edu
 		* http://faculty.cse.tamu.edu/caverlee/
 + CSCE/ECEN 680 Testing and Diagnosis of Digital Systems
-	- Prof. Duncan Walker
+	- [ ] Prof. Duncan Walker
 		* walker@cse.tamu.edu
 
 
