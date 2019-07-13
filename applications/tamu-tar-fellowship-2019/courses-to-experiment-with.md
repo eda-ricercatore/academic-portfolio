@@ -131,6 +131,10 @@ CSE courses
 		* djimenez@acm.org
 		* http://taco.cs.tamu.edu/
 		* http://faculty.cse.tamu.edu/djimenez
++ CSCE 625 Artificial Intelligence
+	- [ ] Prof. Guni Sharon
+		* https://www.cs.utexas.edu/~guni/
+		* guni@tamu.edu
 + CSCE 633 Machine Learning
 	- [ ] Prof. Bobak Mortazavi
 		* bobakm@tamu.edu
