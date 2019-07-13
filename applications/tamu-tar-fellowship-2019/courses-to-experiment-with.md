@@ -156,3 +156,26 @@ CSE courses
 		* walker@cse.tamu.edu
 
 
+
+
+
+
+
+
+
+Engineering courses to experiment with
++ ENGR 102 Engineering Lab I: Computation
+	- [ ] Prof. Randy H. Brooks
+		* randy_brooks86@tamu.edu
+	- [ ] Prof. Bjorn-Harald Bangstein
+		* bangstein@tamu.edu
+	- [ ] Mr. Leonel Alvarado
+		* leonelalvarado@tamu.edu
+	- [ ] Prof. Ian Horbaczewski
+		* ian.h@tamu.edu
+		* daveyag@gmail.com
+	- [ ] Mr. Daniel Lee Ball
+		* danny.dlb.ball@gmail.com
+	- [ ] Prof. Shana J. Opella
+		* shana@tamu.edu
+
